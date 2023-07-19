@@ -12,7 +12,7 @@ https://swagshoes.netlify.app/
 # Technology We Used 💻
 Tech Stack in Frontend:
 
-1. HTML5
+1. HTML
 2. CSS
 3. JavaScript
 
