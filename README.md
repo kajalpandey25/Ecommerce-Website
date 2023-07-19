@@ -9,5 +9,20 @@ This website is an online Nike Store where you can browse and purchase various N
 # Deployment link:
 https://swagshoes.netlify.app/
 
+# Technology We Used 💻
+Tech Stack in Frontend:
+
+1. HTML5
+2. CSS
+3. JavaScript
+
+# Authors
+Kajal Pandey 🙎‍♀️
+
+https://www.linkedin.com/in/kajal-pandey-08b312260/
+
+
+
+
 
 
