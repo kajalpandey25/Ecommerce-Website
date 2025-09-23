@@ -1,4 +1,4 @@
-**# Ecommerce-Website
+# Ecommerce-Website
 
 # This is an e-commerce website. In this website I have used HTML, CSS, and JavaScript.
 
@@ -25,4 +25,4 @@ https://www.linkedin.com/in/kajal-pandey-08b312260/
 
 
 
-**
+
